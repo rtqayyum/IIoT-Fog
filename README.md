@@ -1,6 +1,6 @@
 # IIoT-Fog
 Mobility-Aware Hierarchal Fog Computing Framework for Industrial
-Internet of Things
+Internet of Things (IIoT)
 
 Inslatation Manual
 
